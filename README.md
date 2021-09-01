@@ -1,14 +1,10 @@
 # CSE107 - Lab 2
 
-***
-
 This lab utilizes loop statemets such as **for** and **while**
 as well as conditional statements like **if** and **else**.
 It also employs the use of the turtle library.
 
 ## Purpose
-
-***
 
 ### pay.py
 
@@ -26,8 +22,6 @@ This program uses the turtle library to draw a shape of the given
 number of sides and side-length.
 
 ## Conclusion
-
-***
 
 * In this lab I practiced implementing looping and conditional
 statements to solve problems that require them. I learned the 
